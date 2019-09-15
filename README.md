@@ -1,1 +1,1 @@
-# Pandas-Basic-Exercises
+# Go through individual jupyter notebook
